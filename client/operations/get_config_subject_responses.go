@@ -14,7 +14,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"redpanda-schema-registry/models"
+	"github.com/CG-SS/redpanda-schema-registry/models"
 )
 
 // GetConfigSubjectReader is a Reader for the GetConfigSubject structure.

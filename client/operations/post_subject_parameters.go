@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"redpanda-schema-registry/models"
+	"github.com/CG-SS/redpanda-schema-registry/models"
 )
 
 // NewPostSubjectParams creates a new PostSubjectParams object,

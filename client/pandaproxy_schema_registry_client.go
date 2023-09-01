@@ -6,7 +6,7 @@ package client
 // Editing this file might prove futile when you re-run the swagger generate command
 
 import (
-	"redpanda-schema-registry/client/operations"
+	"github.com/CG-SS/redpanda-schema-registry/client/operations"
 
 	"github.com/go-openapi/runtime"
 	httptransport "github.com/go-openapi/runtime/client"

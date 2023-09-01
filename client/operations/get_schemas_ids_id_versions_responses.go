@@ -14,7 +14,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"redpanda-schema-registry/models"
+	"github.com/CG-SS/redpanda-schema-registry/models"
 )
 
 // GetSchemasIdsIDVersionsReader is a Reader for the GetSchemasIdsIDVersions structure.

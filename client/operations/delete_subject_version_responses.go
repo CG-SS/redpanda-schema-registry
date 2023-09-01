@@ -12,7 +12,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"redpanda-schema-registry/models"
+	"github.com/CG-SS/redpanda-schema-registry/models"
 )
 
 // DeleteSubjectVersionReader is a Reader for the DeleteSubjectVersion structure.
