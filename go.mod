@@ -1,4 +1,4 @@
-module redpanda-schema-registry
+module github.com/CG-SS/redpanda-schema-registry
 
 go 1.21.0
 
